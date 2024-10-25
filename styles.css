@@ -1,0 +1,81 @@
+body {
+  padding: 0;
+}
+
+#main {
+  background-color: #eee;
+  color: #3d3c3c;
+  border-radius: 3px;
+  margin: 20px 20px 30px 20px;
+  font-family: "apple-system", "BlinkMacSystemFont", "Segoe UI",
+    "Helvetica Neue";
+}
+
+#title {
+  text-align: center;
+  padding: 20px;
+  font-size: 40px;
+}
+
+.report {
+  text-align: center;
+  font-size: 24px;
+}
+
+#img-div {
+  text-align: center;
+  display: block;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+img {
+  display: flexbox;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.caption {
+  color: #3d3c3c;
+  font-size: 13px;
+}
+
+#line {
+  text-align: center;
+  font-size: 17px;
+  font-family: "apple-system", "BlinkMacSystemFont", "Segoe UI",
+    "Helvetica Neue";
+}
+
+ul {
+  text-align: center;
+  text-align: left;
+  padding-left: 20rem;
+  padding-right: 20rem;
+  display: block;
+}
+blockquote {
+  text-align: center;
+  font-size: 22px;
+  padding-top: 8px;
+}
+strong {
+  font-weight: bold;
+}
+
+label {
+  display: flex;
+  font-size: 22px;
+  color: #3d3c3c;
+  padding-left: 25rem;
+  position: static;
+}
+
+ul {
+  text-align: left;
+  padding-left: 20rem;
+  padding-right: 20rem;
+}
